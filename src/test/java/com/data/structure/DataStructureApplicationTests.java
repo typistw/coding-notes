@@ -1,4 +1,4 @@
-package com.data.structure.datastructure;
+package com.data.structure;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
