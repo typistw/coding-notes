@@ -1,4 +1,4 @@
-package com.data.structure.leetcode;
+package com.leetcode;
 
 /*
  * @author：jinsheng
