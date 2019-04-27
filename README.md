@@ -1,3 +1,3 @@
 # data structuer & algorithm learning
 ## 目录
-[leetcode](https://github.com/typistw/data-structer/edit/master/README.md)
+[leetcode题解](https://github.com/typistw/data-structer/tree/master/src/main/java/com/leetcode)
