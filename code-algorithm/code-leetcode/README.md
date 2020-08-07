@@ -18,6 +18,6 @@
 [38 Count and Say](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/CountAndSay.java)    
 
 ## Medium
-[3 Longest SubString Without Repeating Characters](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/LongestSubStringWithoutRepeatingCharacter.java)
+[3 Longest SubString Without Repeating Characters](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/LongestSubStringWithoutRepeatingCharacters.java)
 
 ## Hard
