@@ -1,3 +1,7 @@
+# website
+[leetcode](https://leetcode.com/)  
+[leetcode-cn](https://leetcode-cn.com/)
+
 # Difficulty
 ## Ease
 [1 Two Sum](https://github.com/typistw/data-structer/blob/master/src/main/java/com/leetcode/easy/TwoSum.java)  
@@ -10,7 +14,10 @@
 [26 Remove Duplicates from Sorted Array](https://github.com/typistw/data-structer/blob/master/src/main/java/com/leetcode/easy/RemoveDuplicatesFromSortedArray.java)  
 [27 Remove Element](https://github.com/typistw/data-structer/blob/master/src/main/java/com/leetcode/easy/RemoveElement.java)  
 [28 Implement strStr()]()  
+[35 Search Insert Position]()  
+[38 Count and Say]()    
 
 ## Medium
+[3 Longest SubString Without Repeating Characters]()
 
 ## Hard
