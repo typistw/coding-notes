@@ -13,9 +13,9 @@
 [21 Merge Tow Sorted Lists](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/MergeToSortedLists.java)  
 [26 Remove Duplicates from Sorted Array](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/RemoveDuplicatesFromSortedArray.java)  
 [27 Remove Element](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/RemoveElement.java)  
-[28 Implement strStr()](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/.java)  
-[35 Search Insert Position](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ImplementStrstr.java)  
-[38 Count and Say](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SearchInsertPOsition.java)    
+[28 Implement strStr()](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ImplementStrstr.java)  
+[35 Search Insert Position](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SearchInsertPosition.java)  
+[38 Count and Say](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/CountAndSay.java)    
 
 ## Medium
 [3 Longest SubString Without Repeating Characters](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/LongestSubStringWithoutRepeatingCharacter.java)
