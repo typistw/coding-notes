@@ -16,7 +16,7 @@
 [28 Implement strStr()](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ImplementStrstr.java)  
 [35 Search Insert Position](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SearchInsertPosition.java)  
 [38 Count and Say](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/CountAndSay.java)    
-[53 Maximum SubArray](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/MaxinumSuarray.java)  
+[53 Maximum SubArray](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/MaxinumSubarray.java)  
 [58 Length of Last Word](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/LengthOfLastWord.java)    
 
 ## Medium
