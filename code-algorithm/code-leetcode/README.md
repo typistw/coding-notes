@@ -16,8 +16,11 @@
 [28 Implement strStr()](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ImplementStrstr.java)  
 [35 Search Insert Position](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SearchInsertPosition.java)  
 [38 Count and Say](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/CountAndSay.java)    
+[53 Maximum SubArray]()  
+[58 Length of Last Word]()  
 
 ## Medium
+[1 Add Two Numbers]()  
 [3 Longest SubString Without Repeating Characters](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/LongestSubStringWithoutRepeatingCharacters.java)
 
 ## Hard
