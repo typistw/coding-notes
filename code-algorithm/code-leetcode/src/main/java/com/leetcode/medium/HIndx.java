@@ -1,4 +1,4 @@
-package com.leetcode.challenge.twenty.august.weektwo;
+package com.leetcode.medium;
 
 /**
  *Given an array of citations (each citation is a non-negative integer) of a researcher, write a function to compute the researcher's h-index.

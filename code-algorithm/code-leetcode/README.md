@@ -17,10 +17,26 @@
 [35 Search Insert Position](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SearchInsertPosition.java)  
 [38 Count and Say](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/CountAndSay.java)    
 [53 Maximum SubArray](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/MaxinumSubarray.java)  
-[58 Length of Last Word](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/LengthOfLastWord.java)    
+[58 Length of Last Word](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/LengthOfLastWord.java)  
+[66 Plus On]()  
+[67 Add Binary]()  
+[69 Sqrt(x)]()  
+[119 Pascal's Triangle II]()    
+[171 Excel Sheet Column Number]()  
 
 ## Medium
 [1 Add Two Numbers](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/AddTwoNumbers.java)  
-[3 Longest SubString Without Repeating Characters](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/LongestSubStringWithoutRepeatingCharacters.java)
+[3 Longest SubString Without Repeating Characters](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/LongestSubStringWithoutRepeatingCharacters.java)  
+[5 Longest Palindromic Substring]()  
+[6 ZigZig Conversion]()  
+[8 String To Integer]()  
+[11 Container With Most Water]()  
+[12 Integer to Roman]()  
+[274 H-index]()  
+[437 Path Sum III]()  
+[987 Vertical Order Traversal of a Binary Tree]()  
+[994 Rotting orange]()  
+[442 Find All Duplicates in an Array]()  
+[1286 Iterator for Combination]()  
 
 ## Hard

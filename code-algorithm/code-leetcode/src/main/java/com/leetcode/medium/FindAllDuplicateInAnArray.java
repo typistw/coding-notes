@@ -1,4 +1,4 @@
-package com.leetcode.challenge.twenty.august.weekOne;
+package com.leetcode.medium;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -24,11 +24,16 @@ Output:
  */
 public class FindAllDuplicateInAnArray {
 
+    public static void main(String[] args) {
+        int[] nums = {4,3,2,7,8,2,3,1};
+        System.out.println(findDuplicates(nums));
+    }
+
     /**
      * @param nums
      * @return
      */
-    public List<Integer> findDuplicates(int[] nums) {
+    public static List<Integer> findDuplicates(int[] nums) {
         List<Integer> list = new ArrayList<>();
         Set<Integer> set = new HashSet<>();
 

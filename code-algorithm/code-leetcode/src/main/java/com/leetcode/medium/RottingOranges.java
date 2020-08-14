@@ -1,4 +1,4 @@
-package com.leetcode.challenge.twenty.august.weektwo;
+package com.leetcode.medium;
 
 import java.util.*;
 

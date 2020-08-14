@@ -1,6 +1,6 @@
-package com.leetcode.challenge.twenty.august.weekOne;
+package com.leetcode.medium;
 
-import com.leetcode.challenge.twenty.august.TreeNode;
+import com.leetcode.base.TreeNode;
 
 import java.util.*;
 

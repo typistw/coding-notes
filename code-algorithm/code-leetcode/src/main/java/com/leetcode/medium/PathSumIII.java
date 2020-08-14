@@ -1,6 +1,6 @@
-package com.leetcode.challenge.twenty.august.weektwo;
+package com.leetcode.medium;
 
-import com.leetcode.challenge.twenty.august.TreeNode;
+import com.leetcode.base.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -35,7 +35,7 @@ Return 3. The paths that sum to 8 are:
  * @author：jinsheng
  * @date：2020/08/08 16:25
  */
-public class PathSumThree {
+public class PathSumIII {
     public static void main(String[] args) {
         TreeNode root = new TreeNode(0);
         TreeNode left = new TreeNode(1);

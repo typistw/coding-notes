@@ -1,4 +1,4 @@
-package com.leetcode.challenge.twenty.august;
+package com.leetcode.base;
 
 public class TreeNode {
         public int val;
