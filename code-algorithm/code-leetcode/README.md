@@ -21,11 +21,13 @@
 [66 Plus On]()  
 [67 Add Binary]()  
 [69 Sqrt(x)]()  
-[70 Climbing Stairs]() 
-[83 Remove Duplicates from Sorted List]()  
+[70 Climbing Stairs]()  
+[83 Remove Duplicates from Sorted List]()    
 [88 Merge Sorted Array]()  
-[119 Pascal's Triangle II]()    
-[171 Excel Sheet Column Number]()  
+[100 Same Tree]()  
+[101 Symmetric Tree]()  
+[119 Pascal's Triangle II]()  
+[171 Excel Sheet Column Number]()    
 
 ## Medium
 [1 Add Two Numbers](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/AddTwoNumbers.java)  
