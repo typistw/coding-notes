@@ -15,7 +15,7 @@ If you have figured out the O(n) solution, try coding another solution using the
  * @author：jinsheng
  * @date：2020/08/08 22:57
  */
-public class MaxinumSubarray {
+public class MaximumSubArray {
 
     public static void main(String[] args) {
         int[] nums = {-2,1,-3,4,-1,2,1,-5,4};
