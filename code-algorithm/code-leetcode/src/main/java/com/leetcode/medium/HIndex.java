@@ -18,7 +18,7 @@ package com.leetcode.medium;
  * @Auther: jinsheng.wei
  * @Description:
  */
-public class HIndx {
+public class HIndex {
 
     public static void main(String[] args) {
         int[] nums = {3,0,6,1,5};
