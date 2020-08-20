@@ -32,6 +32,7 @@
 [110 Balance Binary Tree](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/BalanceBinaryTree.java)  
 [111 Minimum Depth of Binary Tree](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/MinimumDepthOfBinaryTree.java)  
 [112 Path Sum](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/PathSum.java)  
+[118 Pascal's Triangle](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/PascalTriangle.java)  
 [119 Pascal's Triangle II](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/PascalTriangleII.java)  
 [121 Best Time to Buy And Sell Stock](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/BestTimeToBuyAndSellStock.java)  
 [122 Best Time to Buy And Sell Stock II](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/BestTimeToBuyAndSellStockII.java)  
@@ -48,8 +49,10 @@
 [11 Container With Most Water](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/ContainerWithMostWater.java)  
 [12 Integer to Roman](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/IntegerToRoman.java)  
 [15 3Sum](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/ThreeSum.java)  
+[16 3Sum Closet](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/ThreeSumClosest.java)  
 [102 Binary Tree Level Order Traversal](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/BinaryTreeLevelOrderTraversal.java)  
 [113 Path Sum II](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/PathSumII.java)  
+[143 Reorder List](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/ReOrderList.java)  
 [274 H-index](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/HIndex.java)  
 [437 Path Sum III](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/PathSumIII.java)  
 [967 Numbers With Same Consecutive Differences](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/NumbersWithSameConsecutiveDifferences.java)  
@@ -59,4 +62,3 @@
 [1286 Iterator for Combination](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/CombinationIterator.java)  
 
 ## Hard
-连接检查开始位置： 66 5 
