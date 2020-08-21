@@ -36,8 +36,10 @@
 [119 Pascal's Triangle II](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/PascalTriangleII.java)  
 [121 Best Time to Buy And Sell Stock](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/BestTimeToBuyAndSellStock.java)  
 [122 Best Time to Buy And Sell Stock II](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/BestTimeToBuyAndSellStockII.java)  
+[125 Valid Palindrome](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ValidPalindrome.java)  
 [171 Excel Sheet Column Number](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ExcelSheetColumnNumber.java)  
 [824 Goat Latin](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/GoatLatin.java)  
+[905 Sort Array By Parity](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SortArrayByParity.java)  
 [1103 Distribute Candies to People](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/DistributeCandiesToPeople.java)    
 
 ## Medium
