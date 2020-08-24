@@ -39,6 +39,7 @@
 [125 Valid Palindrome](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ValidPalindrome.java)  
 [136 Single Number](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SingleNumber.java)  
 [141 Linked List Cycle](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/LinkedListCycle.java)  
+[155 Min Stack](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/MinStack.java)  
 [171 Excel Sheet Column Number](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ExcelSheetColumnNumber.java)  
 [824 Goat Latin](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/GoatLatin.java)  
 [905 Sort Array By Parity](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SortArrayByParity.java)  
@@ -59,6 +60,7 @@
 [113 Path Sum II](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/PathSumII.java)  
 [143 Reorder List](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/ReOrderList.java)  
 [274 H-index](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/HIndex.java)  
+[404 Sum of Left Leaves](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/SumOfLeftLeaves.java)  
 [437 Path Sum III](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/PathSumIII.java)  
 [967 Numbers With Same Consecutive Differences](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/NumbersWithSameConsecutiveDifferences.java)  
 [987 Vertical Order Traversal of a Binary Tree](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/VerticalOrderTraversalOfABinaryTree.java)  
@@ -67,3 +69,4 @@
 [1286 Iterator for Combination](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/CombinationIterator.java)  
 
 ## Hard
+[1032 Stream of Characters](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode//hard/StreamOfCharacters.java)  
