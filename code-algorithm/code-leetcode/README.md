@@ -40,6 +40,7 @@
 [136 Single Number](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SingleNumber.java)  
 [141 Linked List Cycle](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/LinkedListCycle.java)  
 [155 Min Stack](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/MinStack.java)  
+[160 Intersection of Two Linked Lists](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/IntersectionOfTwoLinkedLists.java)  
 [171 Excel Sheet Column Number](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ExcelSheetColumnNumber.java)  
 [509 Fibonacci Number](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FibonacciNumber.java)  
 [824 Goat Latin](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/GoatLatin.java)  
