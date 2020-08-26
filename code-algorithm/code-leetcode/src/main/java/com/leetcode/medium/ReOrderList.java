@@ -1,5 +1,7 @@
 package com.leetcode.medium;
 
+import com.leetcode.base.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -82,13 +84,5 @@ public class ReOrderList {
         System.out.println(node.val);
         printListNode(node.next);
     }
-
-    public static class ListNode {
-      int val;
-      ListNode next;
-      ListNode() {}
-      ListNode(int val) { this.val = val; }
-      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-  }
 
 }

@@ -1,5 +1,7 @@
 package com.leetcode.easy;
 
+import com.leetcode.base.ListNode;
+
 /*
  * 描述：
  *      合并两个有序链表为一个新的有序链表
@@ -69,11 +71,4 @@ public class MergeToSortedLists {
         }
     }
 
-    public static  class ListNode{
-        int val;
-        ListNode next;
-        ListNode(int x){
-            val = x;
-        }
-    }
 }

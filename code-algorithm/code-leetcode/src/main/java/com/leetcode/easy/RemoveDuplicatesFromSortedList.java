@@ -1,5 +1,7 @@
 package com.leetcode.easy;
 
+import com.leetcode.base.ListNode;
+
 /**
  *Given a sorted linked list, delete all duplicates such that each element appear only once.
  *
@@ -68,14 +70,6 @@ public class RemoveDuplicatesFromSortedList {
         }
         sb.deleteCharAt(sb.length() - 1);
         System.out.println(sb.toString());
-    }
-
-    public static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) { this.val = val; }
-        ListNode(int val, ListNode next) { this.val = val; this.next = next; }
     }
 }
 

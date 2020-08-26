@@ -1,6 +1,6 @@
 package com.leetcode.easy;
 
-import java.util.List;
+import com.leetcode.base.ListNode;
 
 /*
  *Given a linked list, determine if it has a cycle in it.
@@ -58,15 +58,5 @@ public class LinkedListCycle {
 
         return false;
     }
-
-
-    static class ListNode {
-      int val;
-      ListNode next;
-      ListNode(int x) {
-          val = x;
-          next = null;
-      }
-  }
 
 }
