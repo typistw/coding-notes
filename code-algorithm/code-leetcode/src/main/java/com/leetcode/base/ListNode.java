@@ -28,6 +28,15 @@ public class ListNode {
        return node;
     }
 
+    public static void printNode(ListNode node){
+       StringBuilder sb = new StringBuilder();
+       while (node != null){
+           sb.append(node.val).append(",");
+           node = node.next;
+       }
+        System.out.println(sb.toString());
+    }
+
     private static void setNodeNext(ListNode head, ListNode nextNode){
         if(head == null){
             return;
