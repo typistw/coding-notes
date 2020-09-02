@@ -87,7 +87,7 @@
 [404 Sum of Left Leaves](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/SumOfLeftLeaves.java)  
 [436 Find Right Interval](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/FindRightInterval.java)  
 [437 Path Sum III](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/PathSumIII.java)  
-[437 Implement Rand10() Using Rand7()](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/ImplementRandTenUsingRandSeven.java)  
+[470 Implement Rand10() Using Rand7()](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/ImplementRandTenUsingRandSeven.java)  
 [967 Numbers With Same Consecutive Differences](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/NumbersWithSameConsecutiveDifferences.java)  
 [987 Vertical Order Traversal of a Binary Tree](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/VerticalOrderTraversalOfABinaryTree.java)  
 [994 Rotting orange](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/RottingOranges.java)  
