@@ -97,6 +97,7 @@
 [994 Rotting orange](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/RottingOranges.java)  
 [442 Find All Duplicates in an Array](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/FindAllDuplicateInAnArray.java)  
 [1286 Iterator for Combination](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/CombinationIterator.java)  
+[1305 All Elements in Two Binary Search Tress](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/AllElementsInTwoBinarySearchTrees.java)  
 
 ## Hard
 [1032 Stream of Characters](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode//hard/StreamOfCharacters.java)  
