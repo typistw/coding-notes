@@ -61,6 +61,9 @@
 [203 Remove Linked List Elements](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/RemoveLinkedListElements.java)  
 [204 Count Primes](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/CountPrimes.java)  
 [205 Isomorphic Strings](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/IsomorphicStrings.java)  
+[206 Reverse Linked List](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ReverseLinkedList.java)  
+[217 Contains Duplicate](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ContainsDuplicate.java)  
+[219 Contains Duplicate II](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ContainsDuplicateII.java)  
 [412 Fizz Buzz](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FizzBuzz.java)  
 [459 Repeated Substring Pattern](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/RepeatedSubstringPattern.java)  
 [509 Fibonacci Number](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FibonacciNumber.java)  
@@ -99,6 +102,7 @@
 [994 Rotting orange](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/RottingOranges.java)  
 [442 Find All Duplicates in an Array](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/FindAllDuplicateInAnArray.java)  
 [1286 Iterator for Combination](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/CombinationIterator.java)  
+[1305 All Elements in Two Binary Search Tress](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/AllElementsInTwoBinarySearchTrees.java)  
 
 ## Hard
 [1032 Stream of Characters](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode//hard/StreamOfCharacters.java)  
