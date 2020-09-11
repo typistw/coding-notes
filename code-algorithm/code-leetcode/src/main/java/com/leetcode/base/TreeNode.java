@@ -1,5 +1,8 @@
 package com.leetcode.base;
 
+import java.util.Queue;
+import java.util.concurrent.LinkedBlockingDeque;
+
 public class TreeNode {
     public int val;
     public TreeNode left;
@@ -41,19 +44,45 @@ public class TreeNode {
         return root;
     }
 
+    public static void printBreadth(TreeNode node){
+        if(node == null)
+            return;
+
+        Queue<TreeNode> queue = new LinkedBlockingDeque<>();
+        queue.add(node);
+        StringBuilder sb = new StringBuilder();
+        while (!queue.isEmpty()){
+            int size = queue.size();
+            while(size > 0){
+                TreeNode tempNode = queue.poll();
+                sb.append(tempNode.val).append(",");
+
+                if(tempNode.left != null)
+                    queue.add(tempNode.left);
+
+                if(tempNode.right != null){
+                    queue.add(tempNode.right);
+                }
+
+                size--;
+            }
+        }
+        System.out.println(sb.toString());
+    }
+
     private static void structureChildNoe(TreeNode node, int rootVal, int val, boolean hasLeft) {
         if (node == null)
             return;
 
-        if (node.val != rootVal) {
+        if (node.val == rootVal) {
+            if (hasLeft) {
+                node.left = new TreeNode(val);
+            } else {
+                node.right = new TreeNode(val);
+            }
+        }else{
             structureChildNoe(node.left, rootVal, val, hasLeft);
             structureChildNoe(node.right, rootVal, val, hasLeft);
-        }
-
-        if (hasLeft) {
-            node.left = new TreeNode(val);
-        } else {
-            node.right = new TreeNode(val);
         }
     }
 }
