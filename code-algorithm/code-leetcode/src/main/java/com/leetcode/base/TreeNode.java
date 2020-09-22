@@ -31,11 +31,11 @@ public class TreeNode {
         TreeNode root = new TreeNode(tempArray[1]);
         for (int i = 1; i < tempArray.length; i++) {
             if (tempArray[i] != null) {
-                if (2 * i < tempArray.length) {
+                if (2 * i < tempArray.length && tempArray[2 * i] != null) {
                     structureChildNoe(root, tempArray[i], tempArray[2 * i], true);
                 }
 
-                if (2 * i + 1 < tempArray.length) {
+                if (2 * i + 1 < tempArray.length && tempArray[2 * i + 1] != null) {
                     structureChildNoe(root, tempArray[i], tempArray[2 * i + 1], false);
                 }
             }
