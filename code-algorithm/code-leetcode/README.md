@@ -76,6 +76,7 @@
 [258 Add Digits](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/AddDigits.java)  
 [263 Ugly Number](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/UglyNumber.java)  
 [268 Missing Number](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/MissingNumber.java)  
+[278 First Bad Version](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FirstBadVersion.java)  
 [290 Word Pattern](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/WordPattern.java)  
 [299 Bulls and Cows](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/BullsAndCows.java)  
 [389 Find the Difference](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FindTheDifference.java)  
@@ -130,6 +131,7 @@
 [994 Rotting orange](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/RottingOranges.java)  
 [442 Find All Duplicates in an Array](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/FindAllDuplicateInAnArray.java)  
 [495 Teemo Attacking](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/TeemoAttacking.java)  
+[1007 Minimum Domino Rotations For Equal Row](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/MinimumDominoRotationsForEqualRow.java)  
 [1286 Iterator for Combination](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/CombinationIterator.java)  
 [1305 All Elements in Two Binary Search Tress](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/AllElementsInTwoBinarySearchTrees.java)  
 
