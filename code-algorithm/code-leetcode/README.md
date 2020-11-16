@@ -85,6 +85,7 @@
 [326 Power Of Three](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/PowerOfThree.java)  
 [342 Power Of Four](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/PowerOfFour.java)  
 [344 Reverse String](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ReverseString.java)  
+[345 Reverse Vowels Of a String ](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ReverseVowelsOfString.java)  
 [389 Find the Difference](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FindTheDifference.java)  
 [412 Fizz Buzz](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FizzBuzz.java)  
 [459 Repeated Substring Pattern](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/RepeatedSubstringPattern.java)  
@@ -93,6 +94,8 @@
 [905 Sort Array By Parity](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SortArrayByParity.java)  
 [1022 Sum of Root to Leaf Binary Numbers](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SumOfRootToLeafBinaryNumbers.java)    
 [1103 Distribute Candies to People](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/DistributeCandiesToPeople.java)    
+[1290 Convert Binary Number in a linked List to Integer](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ConvertBinaryNumberInALinkedListToInteger.java)    
+[1466 Consecutive Characters](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ConsecutiveCharacters.java)    
 
 ## Medium
 [1 Add Two Numbers](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/AddTwoNumbers.java)  
@@ -124,6 +127,7 @@
 [134 Gas Station](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/GasStation.java)  
 [142 Linked List Cycle II](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/LinkedListCycleII.java)  
 [143 Reorder List](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/ReOrderList.java)  
+[147 Insertion sort List](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/InsertionSortList.java)  
 [152 Maximum Product Subarray](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/MaximumProductSubarray.java)  
 [165 Compare Version Numbers](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/CompareVersionNumbers.java)  
 [216 Combination Sum III](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/CombinationSumIII.java)  
