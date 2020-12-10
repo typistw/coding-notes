@@ -1,4 +1,4 @@
-package com.leetcode.base;
+package com.leetcode.medium;
 
 /**
  * You are given a list of songs where the ith song has a duration of time[i] seconds.
