@@ -27,6 +27,7 @@
 	<modules>
         <module>code-algorithm</module>
 		<module>code-design-pattern</module>
+		<module>code-concurrency</module>
 	</modules>
 
 	<dependencies>
