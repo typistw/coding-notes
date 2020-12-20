@@ -93,6 +93,7 @@
 [905 Sort Array By Parity](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SortArrayByParity.java)  
 [1022 Sum of Root to Leaf Binary Numbers](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/SumOfRootToLeafBinaryNumbers.java)    
 [1103 Distribute Candies to People](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/DistributeCandiesToPeople.java)    
+[1114 Print in order](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/PrintInOrder.java)    
 
 ## Medium
 [1 Add Two Numbers](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/medium/AddTwoNumbers.java)  
