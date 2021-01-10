@@ -91,6 +91,7 @@
 [367 Valid Perfect Square](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ValidPerfectSquare.java)  
 [374 Guess Number Higher or Lower](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/GuessNumberHigherOrLower.java)  
 [383 Ransom Note](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/RansomNote.java)  
+[387 First Unique Character in a String](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FirstUniqueCharacterInAString.java)  
 [389 Find the Difference](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FindTheDifference.java)  
 [412 Fizz Buzz](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FizzBuzz.java)  
 [459 Repeated Substring Pattern](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/RepeatedSubstringPattern.java)  
