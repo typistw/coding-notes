@@ -1,0 +1,13 @@
+package com.pattern.principle.iip;
+
+public interface IGoodBodyGirl {
+    /**
+     * 姣好的面孔
+     */
+    void goodLooking();
+
+    /**
+     * 好身材
+     */
+    void niceFigure();
+}

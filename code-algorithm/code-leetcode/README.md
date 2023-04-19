@@ -94,6 +94,7 @@
 [387 First Unique Character in a String](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FirstUniqueCharacterInAString.java)  
 [389 Find the Difference](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FindTheDifference.java)  
 [392 Is Subsequence](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/IsSubsequence.java)  
+[405 Convert a Number to Hexadecimal](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/ConvertANumberToHexadecimal.java)  
 [412 Fizz Buzz](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FizzBuzz.java)  
 [459 Repeated Substring Pattern](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/RepeatedSubstringPattern.java)  
 [509 Fibonacci Number](https://github.com/typistw/coding-notes/blob/master/code-algorithm/code-leetcode/src/main/java/com/leetcode/easy/FibonacciNumber.java)  
